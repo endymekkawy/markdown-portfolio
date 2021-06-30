@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# __*My clothes list*__:
+1- pants
+2- *dresses*
+3- **t-shirts**
+4- shirts
+5- suits
+6- socks
